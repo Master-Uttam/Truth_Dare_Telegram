@@ -1,4 +1,4 @@
-token = "5309328476184:AAGEe_MHEAGACDNgeXM3GwgJ_uHsjslkdf"  #write the token 
+token = "5309328476184:AAGEe_MHEAjkljklNgeXM3GwgJ_uHsjslkdf"  #write the token 
 
 quest = [ "who are you?" , "What is your favourite song?"] # Add more question seprerated with comma
 
