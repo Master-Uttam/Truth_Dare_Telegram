@@ -36,7 +36,4 @@ def reply_to(message, reply_to_message):
 
 
 bot.infinity_polling()
-# #message.from_user.id
-# message.from_user.first_name
-# message.from_user.last_name
-# message.from_user.username
+
